@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LifeSword3
-- 👀 I’m interested in Roman history, social sciences, applied statistics, historical reenactement and chess  
-- 🌱 I’m currently learning how to use QGIS and NetLogo in my research (Roman history).
-- 💞️ I’m looking to collaborate on economic and social history projects regardless of the historical era or region
+- 👀 I’m interested in History, applied simulation to Roman studies and historical reenactment. 
+- 🌱 I’m currently learning how to use system dynamics.
+- 💞️ I'm also fond of video games like Factorio, Foxhole and I read quite often. 
 - 📫 How to reach me : via email at armandmarinprice@gmail.com or on discord at #LifeSword3
 
 <!---
